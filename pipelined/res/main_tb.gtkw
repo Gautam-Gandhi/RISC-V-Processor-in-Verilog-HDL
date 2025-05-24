@@ -1,0 +1,46 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Sat Mar  8 16:10:58 2025
+[*]
+[dumpfile] "/home/deepak-pandey/Desktop/IPA/ipa-s25-project-team-08/pipelined/res/main_tb.vcd"
+[dumpfile_mtime] "Sat Mar  8 16:06:23 2025"
+[dumpfile_size] 6024
+[savefile] "/home/deepak-pandey/Desktop/IPA/ipa-s25-project-team-08/pipelined/res/main_tb.gtkw"
+[timestart] 10
+[size] 1838 1001
+[pos] -1 -1
+*-4.591069 48 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] main_tb.
+[treeopen] main_tb.uut.
+[sst_width] 278
+[signals_width] 198
+[sst_expanded] 1
+[sst_vpaned_height] 280
+@28
+main_tb.clk
+@24
+main_tb.uut.pc[63:0]
+@28
+main_tb.uut.PCSrc
+main_tb.uut.PC_write
+main_tb.uut.instruction[31:0]
+main_tb.uut.forward_a[1:0]
+main_tb.uut.forward_b[1:0]
+main_tb.uut.exmem_reg.flush
+main_tb.uut.branch
+main_tb.uut.zero
+@24
+main_tb.uut.rs1_data[63:0]
+main_tb.uut.rs2_data[63:0]
+main_tb.uut.id_stage.rd_data[63:0]
+main_tb.uut.idex_reg.rs1_data[63:0]
+main_tb.uut.idex_reg.rs1_data_d2[63:0]
+main_tb.uut.idex_reg.rs2_data[63:0]
+main_tb.uut.idex_reg.rs2_data_d2[63:0]
+main_tb.uut.exmem_reg.rs2_data_d3[63:0]
+main_tb.uut.exmem_reg.alu_result[63:0]
+main_tb.uut.exmem_reg.alu_result_d3[63:0]
+main_tb.uut.wb_stage.write_back_data[63:0]
+main_tb.uut.id_stage.rd_addr[4:0]
+[pattern_trace] 1
+[pattern_trace] 0
